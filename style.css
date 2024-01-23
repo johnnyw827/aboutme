@@ -1,8 +1,5 @@
 body {
-  background-color: grey;
-}
-
-h1 {
-  color: white;
+  background-color: rgb(188, 188, 188);
+  color: rgb(45, 45, 45);
   margin-left: 20px;
 }
